@@ -1,0 +1,1 @@
+# LanchoneteProvaLab.ConsoleApp
