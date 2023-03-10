@@ -3,8 +3,8 @@
 # Introdução
 Este projeto consiste em um sistema de gerenciamento de vendas, que permite o cadastro de produtos, fornecedores e vendas, além de gerar um relatório em PDF com as informações de vendas.
 
-# Funcionalidades
-## Cadastro de produtos
+## Funcionalidades
+### Cadastro de produtos
 O sistema permite o cadastro de produtos com as seguintes informações:
 
 ID
@@ -14,7 +14,7 @@ Quantidade em estoque
 Lista de fornecedores (nome e endereço)
 Também é possível adicionar e remover fornecedores de um produto já cadastrado.
 
-Cadastro de fornecedores
+### Cadastro de fornecedores
 O sistema permite o cadastro de fornecedores com as seguintes informações:
 
 Nome
@@ -27,7 +27,7 @@ Forma de pagamento
 CPF do cliente
 Também é possível adicionar e remover itens de uma venda já cadastrada.
 
-Geração de relatório em PDF
+### Geração de relatório em PDF
 O sistema permite a geração de um relatório em PDF com as informações de vendas cadastradas. O relatório contém as seguintes informações:
 
 Data e hora da geração do relatório
@@ -35,7 +35,7 @@ Lista de vendas (CPF do cliente, forma de pagamento e valor total da venda)
 Tradução de textos
 O sistema permite a tradução de textos para diversos idiomas, incluindo inglês, espanhol e francês. As traduções são feitas utilizando a API gratuita do Google Translate e são salvas em um arquivo de recursos para cada idioma. O idioma padrão do sistema é o português.
 
-Tecnologias utilizadas
+## Tecnologias utilizadas
 C# .NET 6.0
 ASP.NET Core
 Entity Framework Core
