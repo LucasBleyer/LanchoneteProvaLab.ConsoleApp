@@ -1,10 +1,10 @@
 # Lanchonete Prova Lab.ConsoleApp
 
-Introdução
+# Introdução
 Este projeto consiste em um sistema de gerenciamento de vendas, que permite o cadastro de produtos, fornecedores e vendas, além de gerar um relatório em PDF com as informações de vendas.
 
-Funcionalidades
-Cadastro de produtos
+# Funcionalidades
+## Cadastro de produtos
 O sistema permite o cadastro de produtos com as seguintes informações:
 
 ID
