@@ -13,3 +13,10 @@ C:\Users\lucas\OneDrive\CienciaDaComputacao\Laboratorio de Programação\Lanchon
 C:\Users\lucas\OneDrive\CienciaDaComputacao\Laboratorio de Programação\LanchoneteProvaLab.ConsoleApp\LanchoneteProvaLab.ConsoleApp\obj\Debug\net6.0\LanchoneteProvaLab.ConsoleApp.pdb
 C:\Users\lucas\OneDrive\CienciaDaComputacao\Laboratorio de Programação\LanchoneteProvaLab.ConsoleApp\LanchoneteProvaLab.ConsoleApp\obj\Debug\net6.0\LanchoneteProvaLab.ConsoleApp.genruntimeconfig.cache
 C:\Users\lucas\OneDrive\CienciaDaComputacao\Laboratorio de Programação\LanchoneteProvaLab.ConsoleApp\LanchoneteProvaLab.ConsoleApp\obj\Debug\net6.0\ref\LanchoneteProvaLab.ConsoleApp.dll
+C:\Users\lucas\OneDrive\CienciaDaComputacao\Laboratorio de Programação\LanchoneteProvaLab.ConsoleApp\LanchoneteProvaLab.ConsoleApp\bin\Debug\net6.0\en\LanchoneteProvaLab.ConsoleApp.resources.dll
+C:\Users\lucas\OneDrive\CienciaDaComputacao\Laboratorio de Programação\LanchoneteProvaLab.ConsoleApp\LanchoneteProvaLab.ConsoleApp\bin\Debug\net6.0\pt\LanchoneteProvaLab.ConsoleApp.resources.dll
+C:\Users\lucas\OneDrive\CienciaDaComputacao\Laboratorio de Programação\LanchoneteProvaLab.ConsoleApp\LanchoneteProvaLab.ConsoleApp\obj\Debug\net6.0\LanchoneteProvaLab.ConsoleApp.Resources.String.en.resources
+C:\Users\lucas\OneDrive\CienciaDaComputacao\Laboratorio de Programação\LanchoneteProvaLab.ConsoleApp\LanchoneteProvaLab.ConsoleApp\obj\Debug\net6.0\LanchoneteProvaLab.ConsoleApp.Resources.String.pt.resources
+C:\Users\lucas\OneDrive\CienciaDaComputacao\Laboratorio de Programação\LanchoneteProvaLab.ConsoleApp\LanchoneteProvaLab.ConsoleApp\obj\Debug\net6.0\LanchoneteProvaLab.ConsoleApp.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\CienciaDaComputacao\Laboratorio de Programação\LanchoneteProvaLab.ConsoleApp\LanchoneteProvaLab.ConsoleApp\obj\Debug\net6.0\en\LanchoneteProvaLab.ConsoleApp.resources.dll
+C:\Users\lucas\OneDrive\CienciaDaComputacao\Laboratorio de Programação\LanchoneteProvaLab.ConsoleApp\LanchoneteProvaLab.ConsoleApp\obj\Debug\net6.0\pt\LanchoneteProvaLab.ConsoleApp.resources.dll
