@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\CienciaDaComputacao\Laboratorio de Programação\LanchoneteProvaLab.ConsoleApp\LanchoneteProvaLab.ConsoleApp\bin\Debug\net6.0\LanchoneteProvaLab.ConsoleApp.exe
+C:\Users\lucas\OneDrive\CienciaDaComputacao\Laboratorio de Programação\LanchoneteProvaLab.ConsoleApp\LanchoneteProvaLab.ConsoleApp\bin\Debug\net6.0\LanchoneteProvaLab.ConsoleApp.deps.json
+C:\Users\lucas\OneDrive\CienciaDaComputacao\Laboratorio de Programação\LanchoneteProvaLab.ConsoleApp\LanchoneteProvaLab.ConsoleApp\bin\Debug\net6.0\LanchoneteProvaLab.ConsoleApp.runtimeconfig.json
+C:\Users\lucas\OneDrive\CienciaDaComputacao\Laboratorio de Programação\LanchoneteProvaLab.ConsoleApp\LanchoneteProvaLab.ConsoleApp\bin\Debug\net6.0\LanchoneteProvaLab.ConsoleApp.dll
+C:\Users\lucas\OneDrive\CienciaDaComputacao\Laboratorio de Programação\LanchoneteProvaLab.ConsoleApp\LanchoneteProvaLab.ConsoleApp\bin\Debug\net6.0\LanchoneteProvaLab.ConsoleApp.pdb
+C:\Users\lucas\OneDrive\CienciaDaComputacao\Laboratorio de Programação\LanchoneteProvaLab.ConsoleApp\LanchoneteProvaLab.ConsoleApp\obj\Debug\net6.0\LanchoneteProvaLab.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\CienciaDaComputacao\Laboratorio de Programação\LanchoneteProvaLab.ConsoleApp\LanchoneteProvaLab.ConsoleApp\obj\Debug\net6.0\LanchoneteProvaLab.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\CienciaDaComputacao\Laboratorio de Programação\LanchoneteProvaLab.ConsoleApp\LanchoneteProvaLab.ConsoleApp\obj\Debug\net6.0\LanchoneteProvaLab.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\CienciaDaComputacao\Laboratorio de Programação\LanchoneteProvaLab.ConsoleApp\LanchoneteProvaLab.ConsoleApp\obj\Debug\net6.0\LanchoneteProvaLab.ConsoleApp.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\CienciaDaComputacao\Laboratorio de Programação\LanchoneteProvaLab.ConsoleApp\LanchoneteProvaLab.ConsoleApp\obj\Debug\net6.0\LanchoneteProvaLab.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\CienciaDaComputacao\Laboratorio de Programação\LanchoneteProvaLab.ConsoleApp\LanchoneteProvaLab.ConsoleApp\obj\Debug\net6.0\LanchoneteProvaLab.ConsoleApp.dll
+C:\Users\lucas\OneDrive\CienciaDaComputacao\Laboratorio de Programação\LanchoneteProvaLab.ConsoleApp\LanchoneteProvaLab.ConsoleApp\obj\Debug\net6.0\refint\LanchoneteProvaLab.ConsoleApp.dll
+C:\Users\lucas\OneDrive\CienciaDaComputacao\Laboratorio de Programação\LanchoneteProvaLab.ConsoleApp\LanchoneteProvaLab.ConsoleApp\obj\Debug\net6.0\LanchoneteProvaLab.ConsoleApp.pdb
+C:\Users\lucas\OneDrive\CienciaDaComputacao\Laboratorio de Programação\LanchoneteProvaLab.ConsoleApp\LanchoneteProvaLab.ConsoleApp\obj\Debug\net6.0\LanchoneteProvaLab.ConsoleApp.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\CienciaDaComputacao\Laboratorio de Programação\LanchoneteProvaLab.ConsoleApp\LanchoneteProvaLab.ConsoleApp\obj\Debug\net6.0\ref\LanchoneteProvaLab.ConsoleApp.dll
