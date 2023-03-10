@@ -36,13 +36,14 @@ Tradução de textos
 O sistema permite a tradução de textos para diversos idiomas, incluindo inglês, espanhol e francês. As traduções são feitas utilizando a API gratuita do Google Translate e são salvas em um arquivo de recursos para cada idioma. O idioma padrão do sistema é o português.
 
 ## Tecnologias utilizadas
-C# .NET 6.0
-ASP.NET Core
-Entity Framework Core
-Razor Pages
-iTextSharp (para a geração de PDF)
-Google Translate API
-Como rodar o projeto
+- C# .NET 6.0
+- ASP.NET Core
+- Entity Framework Core
+- Razor Pages
+- iTextSharp (para a geração de PDF)
+- Google Translate API
+
+## Como rodar o projeto
 Clone o repositório para o seu computador
 Abra o projeto no Visual Studio ou no VS Code
 Compile e rode o projeto
